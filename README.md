@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**0xHett/0xHett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 0xHett / Tyler Hettinger
+> Yo, this is my personal github account, all my repositories are currently private and a work in progress.
+---
+#### Current Projects:
+- Fully Modular Terraria Client (written in C#)
+- High Level x64 Assembly Language (compiler written in Rust)
+---
+#### Languages I Use:
+- Rust
+- C#
+- Python
