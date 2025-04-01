@@ -3,7 +3,7 @@
 ---
 #### Current Projects:
 - Fully Modular Terraria Client (written in C#)
-- High Level x64 Assembly Language (compiler written in Rust)
+- High Level x64 Assembly Language - Essentially, Assembly but with higher level features such as bufferless variable declaration, loops, conditional statements, etc. (compiler written in Rust)
 ---
 #### Languages I Use:
 - Rust
